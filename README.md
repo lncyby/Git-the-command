@@ -57,7 +57,7 @@ git remote add updateteam https://github.com/kuaida/kda.git
 
 git fetch updateteam 
 
-git checkout -b updateteam/master　
+git checkout -b update updateteam/master　
 
 git checkout master
 
